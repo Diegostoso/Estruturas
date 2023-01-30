@@ -10,8 +10,8 @@ emitir um boletim virtual, onde será possível ver quais alunos foram aprovados
 aluno e organizar os alunos de acordo com a nota, da maior para menor.
 
 # Funções
-Inserir Alunos e notas
-Exibir notas
-Pesquisar nota de um Aluno especifico 
-Remover um aluno (caso ele saia da escola ou curso)
-Organizar os Alunos de acordo com a nota
+Inserir Alunos e notas,
+Exibir notas,
+Pesquisar nota de um Aluno especifico,
+Remover um aluno (caso ele saia da escola ou curso),
+Organizar os Alunos de acordo com a nota,
